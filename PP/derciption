@@ -1,0 +1,9 @@
+main: Página de incio, donde se encuentra el login y vínculos a las ventanas de la página.
+home: Descripción de estudiante y vínculos a algunas redes sociales y/o trabajo.
+proyectos: Descripciones breves de algunos proyectos que he elaborado a lo largo de la carrera.
+            (no pude encontrar links de todos).
+styles.css: Ajustes con propiedades css para mejor visualización de la página y estética.
+
+    Comportamiento desktop-first.
+
+
